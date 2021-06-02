@@ -34,6 +34,6 @@ tb-nightly==1.14.0a20190419
 tensorflow-estimator-2.0-preview==1.14.0.dev2019042100
 termcolor==1.1.0
 tf-nightly-gpu-2.0-preview==2.0.0.dev20190420
-urllib3==1.24.2
+urllib3==1.26.5
 Werkzeug==0.15.3
 wrapt==1.11.1
